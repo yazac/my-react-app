@@ -1,3 +1,3 @@
-#react todo list demo
+# react todo list demo
 
-My first react demo
+### My first react demo
